@@ -13,3 +13,11 @@ Si n MOD i = 0 entonces // si la division da exacta...
 FinPara
  Si es_primo Entonces
             cant_mostrados <- cant_mostrados + 1
+Escribir cant_mostrados, ": ",n
+        FinSi
+        
+        n <- n + 2 
+        
+    FinMientras
+    
+FinProceso

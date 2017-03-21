@@ -10,3 +10,4 @@ Para i<-3 hasta rc(n) con paso 2 Hacer // ya sabemos que es impar
 Si n MOD i = 0 entonces // si la division da exacta...
                 es_primo <- Falso  // ...ya no es primo
             FinSi
+FinPara

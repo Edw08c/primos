@@ -1,0 +1,2 @@
+Escribir "Ingrese la cantidad de numeros primos a mostrar:"
+    Leer cant_a_mostrar
